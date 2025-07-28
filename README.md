@@ -2,8 +2,6 @@
  MTA'da /senaryo komutuyla yazıların dünya üzerinde belirli bir mesafeye kadar görülebileceği, rol yapımına katkı sağlayan qb-core benzeri bir senaryo sistemi. Şimdi sistemin kullanımından, optimizasyonundan ve yapısından detaylıca bahsedeyim.
 Kullanım Formatı
 /senaryo [metin] [boyut] [font] [renk] [uzaklık]
-Parametre Açıklamaları:
-[metin] → Yazmak istediğin senaryo metni. (örn: "Kıyafetini düzeltir.")
 
 [boyut] → dxDrawText font boyutu. (örn: 1, 1.5)
 
