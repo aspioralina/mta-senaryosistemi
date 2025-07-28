@@ -1,5 +1,6 @@
 # mta-senaryosistemi
  MTA'da /senaryo komutuyla yazıların dünya üzerinde belirli bir mesafeye kadar görülebileceği, rol yapımına katkı sağlayan qb-core benzeri bir senaryo sistemi. Şimdi sistemin kullanımından, optimizasyonundan ve yapısından detaylıca bahsedeyim.
+
 Kullanım Formatı
 /senaryo [metin] [boyut] [font] [renk] [uzaklık]
 
